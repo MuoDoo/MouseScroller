@@ -1,1 +1,1 @@
-## Help is still WIP.
+## Document is still WIP.
