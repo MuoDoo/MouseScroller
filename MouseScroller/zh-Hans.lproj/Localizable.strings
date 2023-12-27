@@ -1,0 +1,4 @@
+"PermissionsTitle" = "权限不足";
+"PermissionsMessage" = "请在 系统设置 > 隐私与安全性 > 辅助功能 中将权限赋予MouseScroller.我们需要这项权限来检测与反转鼠标滚轮方向。";
+"OpenPreferences" = "打开系统设置";
+"Cancel" = "取消";

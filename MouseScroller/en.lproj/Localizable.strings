@@ -1,0 +1,4 @@
+"PermissionsTitle" = "Permissions Required";
+"PermissionsMessage" = "Please allow MouseScroller to control your computer in System Preferences > Security & Privacy > Accessibility. This is needed to detect and invert scrolling.";
+"OpenPreferences" = "Open System Preferences";
+"Cancel" = "Cancel";
